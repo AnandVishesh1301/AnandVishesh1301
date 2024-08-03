@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishesh</h1>
-<h3 align="center">A Rising Third Year in CS at the University of Cincinnati</h3>
-
+<!-- <h3 align="center">A Rising Third Year in CS at the University of Cincinnati</h3>
+ -->
+ <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=A+Rising+Third+Year+CS+major+at+UC!;Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50&color=6a0dad&vCenter=true&pause=1000&size=22&speed=70" />
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvishesh1301&label=Profile%20views&color=0e75b6&style=flat" alt="anandvishesh1301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandvishesh1301" alt="anandvishesh1301" /></a> </p>

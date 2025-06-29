@@ -3,7 +3,7 @@
  -->
  <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A+Rising+Third+Year+CS+major+at+UC!;Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50&color=6a0dad&vCenter=true&pause=1000&size=22&speed=70" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=A+Rising+Fourth+Year+CS+major+at+UC!;Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50&color=6a0dad&vCenter=true&pause=1000&size=22&speed=70" />
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvishesh1301&label=Profile%20views&color=0e75b6&style=flat" alt="anandvishesh1301" /> </p>

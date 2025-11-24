@@ -1,157 +1,66 @@
-<h1 align="center">Hi 👋, I'm Vishesh</h1>
-<!-- <h3 align="center">A Rising Third Year in CS at the University of Cincinnati</h3>
- -->
- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A+Rising+Fourth+Year+CS+major+at+UC!;Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50&color=6a0dad&vCenter=true&pause=1000&size=22&speed=70" />
-  </a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvishesh1301&label=Profile%20views&color=0e75b6&style=flat" alt="anandvishesh1301" /> </p>
+## Hi there! 👋 I'm Vishesh
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandvishesh1301" alt="anandvishesh1301" /></a> </p>
+Passionate about ML and spend most of my time these days building agentic systems, memory engines, and tools that make dev workflows less painful. Currently a CS student at UC (Honors, 3.9 GPA) where I'm a research assistant @ the CincyNLP Lab—working on RL for reasoning models and Interpretability. When I'm not in the lab or at a hackathon, I'm probably building something with MCPs, RAG systems, or trying to make Git less annoying.
 
-- 🔭 I’m currently working on [A YOLO Object Detection Model](https://github.com/AnandVishesh1301/ML-Training-Proj-Vishesh)
+---
 
-- 🌱 I’m currently working as a SWE intern at Kinetic Vision **https://kinetic-vision.com/**
+## 🔨 Recent Shenanigans
 
-- 👨‍💻 All of my projects are available at [https://www.vishesh-anand.com/](https://www.vishesh-anand.com/)
+- **[Soar AI Labs](https://soarailabs.com/)** – Working on **Glide**, an MCP that speeds up Git workflows and builds a **memory engine for your version control**. Trying to make Git argue less with humans. 🚀
 
-- 💬 Ask me about **Web Dev and its Frameworks**
+- **CincyNLP Research Lab** – Reproducing RL setups for reasoning models (Qwen 7.5B) and fine-tuning BERT for embodied emotion detection. More cool stuff **{COMING SOON}**
 
-- 📫 How to reach me **anandvh@mail.uc.edu**
+- **Agentic tools & hackathon projects** – Building with MCPs, RAG systems, and computer-use agents. More cool stuff on my [portfolio](https://www.vishesh-anand.com/).
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vishesh1301/](https://www.linkedin.com/in/vishesh1301/)
+---
 
-- ⚡ Fun fact **I have 11 pet turtles**
+## ✨ Few Things I'm Proud Of
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://devpost.com/AnandVishesh1301" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishesh1301/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/vishesh_1301/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://x.com/Vishesh1301" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" height="30" width="40"/>
-  </a>
-</p>
+- **[Kite](PLACEHOLDER_KITE_GITHUB)** – "Cursor for GitHub" | Agentic CLI for PRs, commits, and branch operations using MCP tools + GitHub APIs. Built RAG-based knowledge retrieval so you can query your commit history in natural language.
 
+- **[memARy](PLACEHOLDER_MEMARY_DEVPOST)** – AI-powered memory engine on Snap AR Spectacles | 3rd Place @ Cal Hacks 2025 | Transforms visual/audio inputs into structured, searchable memory using Reka vision models + ChromaDB (RAG). Integrated with Poké's MCP microservice for seamless cross-platform memory recall.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
- </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
+- **[XStream](PLACEHOLDER_XSTREAM_GITHUB)** – MCP server for X (Twitter) | Built in 2 hours @ MCP Server Hackathon 2025 | TypeScript MCP on Cloudflare Workers that posts images/text via OAuth 1.0a. Uses Cloudflare Workers AI for image generation and D1 SQL for backend storage.
 
+- **[Tweet Generator](PLACEHOLDER_TWEET_GITHUB)** – Character-level Transformer from scratch in PyTorch | Built a 6-layer Transformer inspired by "Attention Is All You Need" with multi-head self-attention, embeddings, and feedforward blocks. Deployed as an API on Hugging Face Spaces for real-time text generation with temperature scaling and top-k sampling.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandvishesh1301&show_icons=true&locale=en&layout=compact" alt="anandvishesh1301" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandvishesh1301&show_icons=true&locale=en" alt="anandvishesh1301" /></p>
+## 💼 Previously, I've...
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandvishesh1301&" alt="anandvishesh1301" /></p>
+Built production AI systems at Kinetic Vision (SWE + AI Solutions co-ops), automated deal flow as a VC Associate at Bearcat Ventures, and shipped a clinical data dashboard used by 200+ researchers at Cincinnati Childrens. If you wanna stalk me more: [LinkedIn](https://www.linkedin.com/in/vishesh1301/).
+
+---
+
+## 🧰 Toolbox
+
+**Languages:** 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></a> Python · 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></a> C++ · 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/></a> TypeScript
+
+**AI/ML:** 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="20" height="20"/></a> PyTorch · 
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/></a> TensorFlow · Hugging Face · scikit-learn, Keras, RAG Systems, LangGraph
+
+**Infra & Data:** 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/></a> Docker · 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/></a> Kubernetes · 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/></a> AWS · PostgreSQL, MongoDB, ChromaDB, Azure
+
+**Web:** 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></a> React · 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/></a> Next.js · Tailwind CSS, Flask, GraphQL, Prisma
+
+---
+
+## 📬 Find Me
+
+[Portfolio](https://www.vishesh-anand.com/) · [LinkedIn](https://www.linkedin.com/in/vishesh1301/) · [GitHub](https://github.com/AnandVishesh1301) · [LeetCode](https://leetcode.com/u/anandvishesh1301/) · [Email](mailto:anandvh@mail.uc.edu)
+
+---
+
+## 🐢 Human Stuff
+
+I have 11 pet turtles (yes, eleven). I'm into lifting and try to hit the gym whenever I get time, though tbh, been slacking lately and need to lock back in. 
+

@@ -1,6 +1,6 @@
-## Hi there! 👋 I'm Vishesh
+## Hey! 👋 I'm Vishesh
 
-Passionate about ML and spend most of my time these days building agentic systems, memory engines, and tools that make dev workflows less painful. Currently a CS student at UC (Honors, 3.9 GPA) where I'm a research assistant @ the CincyNLP Lab—working on RL for reasoning models and Interpretability. When I'm not in the lab or at a hackathon, I'm probably building something with MCPs, RAG systems, or trying to make Git less annoying.
+Passionate about ML and spend most of my time these days building agentic systems, memory engines, and tools that make dev workflows less painful. Currently a CS student at UC (Honors, 3.9 GPA) where I'm a research assistant @ the CincyNLP Lab, working on RL for reasoning models and Interpretability. When I'm not in the lab or at a hackathon, I'm probably building something with MCPs, RAG systems, or trying to make Git less annoying.
 
 ---
 
@@ -8,13 +8,15 @@ Passionate about ML and spend most of my time these days building agentic system
 
 - **[Soar AI Labs](https://soarailabs.com/)** – Working on **Glide**, an MCP that speeds up Git workflows and builds a **memory engine for your version control**. Trying to make Git argue less with humans. 🚀
 
-- **CincyNLP Research Lab** – Reproducing RL setups for reasoning models (Qwen 7.5B) and fine-tuning BERT for embodied emotion detection. More cool stuff **{COMING SOON}**
+- **[CincyNLP Research Lab](https://jiangtianyu.com/lab/)** – Reproducing RL setups for reasoning models (Qwen 7.5B) and fine-tuning BERT for embodied emotion detection. More cool stuff **{COMING SOON}**
+
+- **Bearcat Ventures** – VC Associate investing SAFE Notes in seed/pre-seed startups. Built Selenium automation which doubled our deal flow pipeline. Also helping portfolio founders with tech stuff and pushing deals through investment committee.
 
 - **Agentic tools & hackathon projects** – Building with MCPs, RAG systems, and computer-use agents. More cool stuff on my [portfolio](https://www.vishesh-anand.com/).
 
 ---
 
-## ✨ Few Things I'm Proud Of
+## ✨ Some Stuff I Built
 
 - **[Kite](PLACEHOLDER_KITE_GITHUB)** – "Cursor for GitHub" | Agentic CLI for PRs, commits, and branch operations using MCP tools + GitHub APIs. Built RAG-based knowledge retrieval so you can query your commit history in natural language.
 
@@ -28,7 +30,7 @@ Passionate about ML and spend most of my time these days building agentic system
 
 ## 💼 Previously, I've...
 
-Built production AI systems at Kinetic Vision (SWE + AI Solutions co-ops), automated deal flow as a VC Associate at Bearcat Ventures, and shipped a clinical data dashboard used by 200+ researchers at Cincinnati Childrens. If you wanna stalk me more: [LinkedIn](https://www.linkedin.com/in/vishesh1301/).
+Built production AI systems at Kinetic Vision (SWE + AI Solutions co-ops) and shipped a clinical data dashboard used by 200+ researchers at Cincinnati Childrens. If you wanna stalk me more: [LinkedIn](https://www.linkedin.com/in/vishesh1301/).
 
 ---
 
@@ -54,7 +56,7 @@ Built production AI systems at Kinetic Vision (SWE + AI Solutions co-ops), autom
 
 ---
 
-## 📬 Find Me
+## 📬 HMU
 
 [Portfolio](https://www.vishesh-anand.com/) · [LinkedIn](https://www.linkedin.com/in/vishesh1301/) · [GitHub](https://github.com/AnandVishesh1301) · [LeetCode](https://leetcode.com/u/anandvishesh1301/) · [Email](mailto:anandvh@mail.uc.edu)
 

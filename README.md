@@ -18,13 +18,13 @@ Passionate about ML and spend most of my time these days building agentic system
 
 ## ✨ Some Stuff I Built
 
-- **[Kite](PLACEHOLDER_KITE_GITHUB)** – "Cursor for GitHub" | Agentic CLI for PRs, commits, and branch operations using MCP tools + GitHub APIs. Built RAG-based knowledge retrieval so you can query your commit history in natural language.
+- **[Kite](https://devpost.com/software/kite-eg6h4o)** ([GitHub](https://github.com/SoarAILabs)) – "Cursor for GitHub" | Agentic CLI for PRs, commits, and branch operations using MCP tools + GitHub APIs. Built RAG-based knowledge retrieval so you can query your commit history in natural language.
 
-- **[memARy](PLACEHOLDER_MEMARY_DEVPOST)** – AI-powered memory engine on Snap AR Spectacles | 3rd Place @ Cal Hacks 2025 | Transforms visual/audio inputs into structured, searchable memory using Reka vision models + ChromaDB (RAG). Integrated with Poké's MCP microservice for seamless cross-platform memory recall.
+- **[memARy](https://devpost.com/software/memary)** – AI-powered memory engine on Snap AR Spectacles | 3rd Place @ Cal Hacks 2025 | Transforms visual/audio inputs into structured, searchable memory using Reka vision models + ChromaDB (RAG). Integrated with Poké's MCP microservice for seamless cross-platform memory recall.
 
-- **[XStream](PLACEHOLDER_XSTREAM_GITHUB)** – MCP server for X (Twitter) | Built in 2 hours @ MCP Server Hackathon 2025 | TypeScript MCP on Cloudflare Workers that posts images/text via OAuth 1.0a. Uses Cloudflare Workers AI for image generation and D1 SQL for backend storage.
+- **XStream** – MCP server for X (Twitter) | Built in 2 hours @ MCP Server Hackathon 2025 | TypeScript MCP on Cloudflare Workers that posts images/text via OAuth 1.0a. Uses Cloudflare Workers AI for image generation and D1 SQL for backend storage.
 
-- **[Tweet Generator](PLACEHOLDER_TWEET_GITHUB)** – Character-level Transformer from scratch in PyTorch | Built a 6-layer Transformer inspired by "Attention Is All You Need" with multi-head self-attention, embeddings, and feedforward blocks. Deployed as an API on Hugging Face Spaces for real-time text generation with temperature scaling and top-k sampling.
+- **[Tweet Generator](https://tweetpredictiontransformer.vercel.app/)** – Character-level Transformer from scratch in PyTorch | Built a 6 layer Transformer inspired by "Attention Is All You Need" with multi-head self-attention, embeddings, and feedforward blocks. Deployed as an API on Hugging Face Spaces for real time text generation with temperature scaling and top-k sampling.
 
 ---
 
